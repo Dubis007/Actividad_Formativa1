@@ -1,0 +1,1 @@
+Actividad desde la terminal
